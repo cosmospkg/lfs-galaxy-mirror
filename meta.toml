@@ -1,0 +1,4 @@
+name = "lfs"
+description = "LFS 12.3 but its in a Galaxy"
+version = "2025.04.11"
+[stars]
